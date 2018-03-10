@@ -12,7 +12,7 @@
                 }
             },
             {
-                "name": "install python-apt",
+                "name": "install python-aptjhgjghjghj",
                 "apt": {
                     "name": "python-apteerrty",
                     "allow_unauthenticated": "yes",
