@@ -14,7 +14,7 @@
             {
                 "name": "install python-apt",
                 "apt": {
-                    "name": "python-apt",
+                    "name": "python-apteerrty",
                     "allow_unauthenticated": "yes",
                     "update_cache": "no"
                 }
