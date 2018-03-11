@@ -12,9 +12,9 @@
                 }
             },
             {
-                "name": "install python-aptjhgjghjghj",
+                "name": "install python-apt",
                 "apt": {
-                    "name": "python-apteerrty",
+                    "name": "python-apt",
                     "allow_unauthenticated": "yes",
                     "update_cache": "no"
                 }
